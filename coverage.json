@@ -1,0 +1,108 @@
+{
+  "roadway": "I-476 Northeast Extension",
+  "entry_count": 11,
+  "exit_count": 11,
+  "valid_directed_pairs_per_class": 110,
+  "vehicle_class_files": [
+    {
+      "vehicle_class": "2 Axle High",
+      "file": "data/pa-turnpike-i476-2026-2-axle-high.csv",
+      "records": 220,
+      "ezpass_records": 110,
+      "toll_by_plate_records": 110,
+      "effective_dates": [
+        "2026-01-04"
+      ],
+      "retrieval_dates": [
+        "2026-11-14"
+      ],
+      "source_urls": [
+        "https://files.paturnpike.com/production/docs/default-source/resources/tolls/toll-schedule-2026/paturnpike_2026-toll-calculation-guide.pdf"
+      ]
+    },
+    {
+      "vehicle_class": "2 Axle Low",
+      "file": "data/pa-turnpike-i476-2026-2-axle-low.csv",
+      "records": 220,
+      "ezpass_records": 110,
+      "toll_by_plate_records": 110,
+      "effective_dates": [
+        "2026-01-04"
+      ],
+      "retrieval_dates": [
+        "2026-11-14"
+      ],
+      "source_urls": [
+        "https://files.paturnpike.com/production/docs/default-source/resources/tolls/toll-schedule-2026/paturnpike_2026-toll-calculation-guide.pdf"
+      ]
+    },
+    {
+      "vehicle_class": "3 Axle High",
+      "file": "data/pa-turnpike-i476-2026-3-axle-high.csv",
+      "records": 220,
+      "ezpass_records": 110,
+      "toll_by_plate_records": 110,
+      "effective_dates": [
+        "2026-01-04"
+      ],
+      "retrieval_dates": [
+        "2026-11-14"
+      ],
+      "source_urls": [
+        "https://files.paturnpike.com/production/docs/default-source/resources/tolls/toll-schedule-2026/paturnpike_2026-toll-calculation-guide.pdf"
+      ]
+    },
+    {
+      "vehicle_class": "3 Axle Low",
+      "file": "data/pa-turnpike-i476-2026-3-axle-low.csv",
+      "records": 220,
+      "ezpass_records": 110,
+      "toll_by_plate_records": 110,
+      "effective_dates": [
+        "2026-01-04"
+      ],
+      "retrieval_dates": [
+        "2026-11-14"
+      ],
+      "source_urls": [
+        "https://files.paturnpike.com/production/docs/default-source/resources/tolls/toll-schedule-2026/paturnpike_2026-toll-calculation-guide.pdf"
+      ]
+    },
+    {
+      "vehicle_class": "4 Axle Low",
+      "file": "data/pa-turnpike-i476-2026-4-axle-low.csv",
+      "records": 220,
+      "ezpass_records": 110,
+      "toll_by_plate_records": 110,
+      "effective_dates": [
+        "2026-01-04"
+      ],
+      "retrieval_dates": [
+        "2026-11-14"
+      ],
+      "source_urls": [
+        "https://files.paturnpike.com/production/docs/default-source/resources/tolls/toll-schedule-2026/paturnpike_2026-toll-calculation-guide.pdf"
+      ]
+    },
+    {
+      "vehicle_class": "5 Axle Low",
+      "file": "data/pa-turnpike-i476-2026-5-axle-low.csv",
+      "records": 220,
+      "ezpass_records": 110,
+      "toll_by_plate_records": 110,
+      "effective_dates": [
+        "2026-01-04"
+      ],
+      "retrieval_dates": [
+        "2026-11-14"
+      ],
+      "source_urls": [
+        "https://files.paturnpike.com/production/docs/default-source/resources/tolls/toll-schedule-2026/paturnpike_2026-toll-calculation-guide.pdf"
+      ]
+    }
+  ],
+  "total_amount_records": 1320.0,
+  "official_guide_effective_date": "2026-01-04",
+  "retrieved_at": "2026-11-14"
+}
+
